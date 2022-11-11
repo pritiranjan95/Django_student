@@ -1,0 +1,1 @@
+This is a prject to create api for student detail of a organisation using Django
